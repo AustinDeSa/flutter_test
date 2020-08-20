@@ -1,16 +1,12 @@
 {
-	"type":[
-	  "posts": [
-	    {
-	      "id": 1,
-	      "title": "hello"
-	    }
-	  ],
-	 "posts2": [
-	    {
-	      "id": 2,
-	      "title": "hello2"
-	    }
-	  ],
-	],
+	"type": [{
+		"posts": [{
+			"id": 1,
+			"title": "hello"
+		}],
+		"posts2": [{
+			"id": 2,
+			"title": "hello2"
+		}]
+	}]
 }
