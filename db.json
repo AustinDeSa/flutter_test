@@ -5,7 +5,10 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ "posts2": [
+    {
+      "id": 2,
+      "title": "hello2"
+    }
+  ],
 }
